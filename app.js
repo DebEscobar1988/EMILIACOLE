@@ -23,5 +23,5 @@ app.get("/contact", (req, res) =>
 app.listen(PORT, () =>
   console.log("Server running in http://localhost:" + PORT)
 );
-app.get("/notfound404",(req, res)=>
+app.get("/*",(req, res)=>
 res.sendFile(path.join(__dirname), "views","404notfound.html"))
