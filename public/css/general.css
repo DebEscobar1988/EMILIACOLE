@@ -1,10 +1,15 @@
-font-family: 'Open Sans', sans-serif;
+
+
+
+/* font-family: 'Open Sans', sans-serif;
 font-family: 'Raleway', sans-serif;
-font-family: 'work Sans', sans-serif;
+font-family: 'Work Sans', sans-serif; */
 
 :root {
-    --tipografiaTitulos : 'Raleway', sans-serif';
-    --tipografiaEmilia : 
+    --tipografiaTitulos :'Raleway', sans-serif;
+    --tipografiaEmilia :'Work Sans', sans-serif;
+    --tipografiaGeneral: 'Open Sans', sans-serif;
+    --colorVerdeTitulos: #44a391;
 }
 
 body {
