@@ -5,3 +5,16 @@ body.about{
     background-position: right -30px;
 
 }
+.about main section article h3{
+    color: var(--colorVerdeTitulos);
+    
+   
+}
+.about main section article{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.about article h3{
+    font-weight: 400;
+    font-size: 23px;
+}

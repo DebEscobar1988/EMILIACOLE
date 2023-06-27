@@ -1,3 +1,22 @@
-body.contact{
-    background-color: aqua;
-}
+
+
+.contact main iframe{
+   width: 100%; 
+   height:600px ;
+   padding: 5px 5px ;
+   border: none;
+   }
+   .contact main h2{
+      font-family: var(--tipografiaTitulos);
+      text-transform: uppercase;
+      font-weight: bold;
+   }
+   .contact main article h4{
+      color:var(--colorVerdeTitulos);
+      font-weight: 500;
+   } 
+   .contact main article p{
+      margin: 0;
+   }
+
+      
