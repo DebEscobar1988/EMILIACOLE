@@ -8,12 +8,11 @@
     background-color: rgba(255, 255, 255, 0.5);
     padding: 10px 0;
     margin-bottom: 30px;
+    margin-right: 0;
+    padding-right:0;
   
 }
-.header__horizontal .menu ul{
-    margin-right: 15px;
-   
-}
+
 .header__horizontal nav ul li {
     display: inline;
 }
@@ -21,10 +20,11 @@
 .header__horizontal nav ul li a{
     font-weight: 800;
 }
+/* redes de header music */
 #redes {
     margin-top: -15px;
     padding-bottom: 15px;
-    margin-right: 18px;
+    margin-right:10px;
 
 }
 

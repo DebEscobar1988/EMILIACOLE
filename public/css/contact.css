@@ -1,5 +1,9 @@
 
-
+.contact{
+   padding-bottom: 35px;
+   margin-left: 10px;
+   margin-right: 5px;
+}
 .contact main iframe{
    width: 100%; 
    height:600px ;
