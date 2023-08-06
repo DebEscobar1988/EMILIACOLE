@@ -1,21 +1,56 @@
-header nav ul li {
-    line-height: 30px;
-   }
-.header__vertical{
-    padding-left: 30px;
-}
+/* ABOUT */
 .header__horizontal{
+    margin-top: 40px;
     text-align: right;
 }
+
 .header__horizontal nav.menu{
     background-color: rgba(255, 255, 255, 0.5);
-    padding-top: 4px;
-    padding-bottom: 1px;
-    margin-bottom: 30px;}
-
+    padding: 10px 0;
+    margin-bottom: 30px;
+  
+}
+.header__horizontal .menu ul{
+    margin-right: 15px;
+   
+}
 .header__horizontal nav ul li {
     display: inline;
 }
+
+.header__horizontal nav ul li a{
+    font-weight: 800;
+}
+#redes {
+    margin-top: -15px;
+    padding-bottom: 15px;
+    margin-right: 18px;
+
+}
+
+
+/* HOME */
+.header__vertical{
+    padding-left: 30px;
+
+}
+.home__header__nav{
+    padding:  0;
+    height: 50px;
+}
+
+.header__vertical ul li{
+   margin: 10px 0;
+}
+.home__header__nav--redes{
+margin-top: 110px;
+}   
+
+/* general */
+header nav ul li {
+    line-height: 30px;
+   }
+
 
 
 
